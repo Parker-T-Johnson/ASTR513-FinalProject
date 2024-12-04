@@ -1,1 +1,1 @@
-"# ASTR513-FinalProject" 
+This is Parker Johnson's final ASTR513/ASTR501 project. It gives an overview of the Karhunen-Loeve Image Projection (KLIP) algorithm that is widely used among the direct imaging community. This tutorial goes through how to implement it on real Beta-Pictoris data to reveal a 13 Jupiter mass exoplanet, Beta-Pictoris b."
